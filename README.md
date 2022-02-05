@@ -1,2 +1,2 @@
-# card-product-by-academy
+# page-product
 Created with CodeSandbox
